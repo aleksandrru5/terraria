@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 401d7ec1ca023c744bc69d2589b36847, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  stone: {fileID: 11400000, guid: f00bf614a71d3ff4e8a5bdbd414c994b, type: 2}
+  glass: {fileID: 11400000, guid: 3e2c57e2366ea55429a9e511f2c5bbd2, type: 2}
+  dirt: {fileID: 11400000, guid: 7ef984a0a5173e54aa36f43d1a0031da, type: 2}
+  log: {fileID: 0}
+  leaf: {fileID: 0}
+  tallGrass: {fileID: 11400000, guid: d4e0a0eb3b0c3bb4d8ec22cf85563787, type: 2}
+  snow: {fileID: 0}
+  sand: {fileID: 0}
+  coal: {fileID: 0}
+  iron: {fileID: 0}
+  gold: {fileID: 0}
+  diamond: {fileID: 0}

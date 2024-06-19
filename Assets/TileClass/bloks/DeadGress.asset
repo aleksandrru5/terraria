@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e65cee89c7f0214483483322da4db45, type: 3}
+  m_Name: DeadGress
+  m_EditorClassIdentifier: 
+  tileName: DeadGress
+  wallVariant: {fileID: 0}
+  tileSprites:
+  - {fileID: 21300000, guid: 411fc2d703ff48b499a29a79d59de5ed, type: 3}
+  - {fileID: 21300000, guid: c8607dc8135ddf4408e0a56d1a56d330, type: 3}
+  inBackground: 1
+  tileDrop: {fileID: 11400000}
+  naturallyPlaced: 1
+  isStackable: 1
